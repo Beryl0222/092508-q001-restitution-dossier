@@ -1,0 +1,6 @@
+[project]
+name = "restitution-dossier"
+version = "0.1.0"
+description = "跨境文物返还请求的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
